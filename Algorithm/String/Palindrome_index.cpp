@@ -14,7 +14,7 @@ int main() {
         string str;
         cin>>str;
         int j=str.length()-1;
-        int i;
+        int i=0;
         while(i<j)
             {
             if(str[i]==str[j])
